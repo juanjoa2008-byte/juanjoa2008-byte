@@ -10,17 +10,7 @@
 
 ---
 
-### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
 
-</div>
-
-### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
-
-</div>
-
-### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
-
-</div>
 
 ### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
 
