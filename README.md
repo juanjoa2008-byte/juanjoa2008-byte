@@ -1,18 +1,18 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="1000">
-      <h2>👑 JSGOLDENFLOW 👑</h2>
-      <p><b>Juan José Areiza Sánchez</b></p>
-      <p><i>Desarrollador de Software • Analista de Sistemas • Innovación Educativa</i></p>
-    </td>
-  </tr>
-</table>
+# 👑 JSGOLDENFLOW 👑
+### **Juan José Areiza Sánchez**
+#### *Desarrollador de Software | Analista de Requerimientos | Formador en Tecnología*
+
+<br/>
 
 
 
 ---
+
+### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
+
+</div>
 
 ### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
 
