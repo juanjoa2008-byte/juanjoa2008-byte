@@ -1,6 +1,4 @@
 
-
-<img  width="500" height="500" alt="WhatsApp Image 2026-10-20 at 12 33 01 PM" src="https://github.com/user-attachments/assets/e8977b11-d7ed-4bd8-8863-c3025bd20f02" />
 <div align="center">
 
 # 👑 JSGOLDENFLOW 👑
@@ -12,7 +10,7 @@
 
 
 ---
-<img width="500" height="500" alt="2dea4002-e620-4ad8-bf74-885bbe171ce5" src="https://github.com/user-attachments/assets/796a6632-28a8-42f9-8738-a19d1669da41" />
+
 
 
 ### 🚀 *"Conectando la arquitectura de software con la formación e innovación tecnológica"*
@@ -112,7 +110,7 @@ Apasionado por la tecnología, el análisis de sistemas y la calidad del softwar
 ✨ *"Diseñando software con estructura, calidad y propósito educativo."* ✨
 
 
-<img width="879" height="838" alt="a94f2199-6d90-4226-960c-59484a475931" src="https://github.com/user-attachments/assets/33229954-ffd7-483f-b997-51155a752558" />
+
 
 ---
 **JSGOLDENFLOW** © 2026
